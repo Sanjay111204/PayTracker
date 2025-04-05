@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-Luxurious_Roman: "Luxurious Roman", sans-serif;
+  --font-logo: "Boldonse", sans-serif;
+  --color-midnight: #121063;
+  --color-tahiti: #3ab7bf;
+  --color-bermuda: #78dcca;
+  --color-mainblue: #65a5e0;
+  --color-navblue: #346194;
+}
+
